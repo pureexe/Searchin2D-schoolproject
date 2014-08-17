@@ -1,0 +1,213 @@
+#include<iostream>
+#include<vector>
+#include<chrono>
+#include<algorithm>
+#include<fstream>
+#include<string>
+using namespace std;
+struct rec
+{
+    int floor;
+    int start;
+    int ends;
+    rec(int c,int a,int b)
+    {
+        start=a;
+        ends=b;
+        floor=c;
+    }
+};
+struct box
+{
+    int x;
+    int y;
+    box(int a,int b)
+    {
+        x=a;
+        y=b;
+    }
+};
+struct zone
+{
+    int key;
+    vector<struct box> vex;
+    zone(int x)
+    {
+        key=x;
+    }
+};
+bool sortbox(struct box a,struct box b)
+{
+    if(a.x==b.x)
+        a.y<b.y;
+    return a.x<b.x;
+}
+vector<box> boxlst;
+vector<struct zone> lst;
+int getInsertAddr(int start,int ends,int var)
+{
+    int mid=(start+ends)/2;
+    if(lst.empty())
+        return 0;
+    else if(lst.at(mid).key==var)
+        return mid;
+    else if(start==mid||ends==mid)
+    {
+        if(lst[mid].key<var)
+            return mid+1;
+        else
+            return mid;
+    }
+    else if(start<mid&&lst.at(mid).key>=var&&lst.at(mid-1).key<var)
+        return mid;
+    else if(lst.at(mid).key>var)
+        return getInsertAddr(start,mid,var);
+    else if(lst.at(mid).key<var)
+        return getInsertAddr(mid,ends,var);
+}
+
+int Lst_Insert()
+{
+     int last=-2111999999,ct=0,c_zone=-1;
+     do{
+     if(boxlst[ct].x!=last)
+     {
+         last=boxlst[ct].x;
+         lst.push_back(zone(boxlst[ct].x));
+         c_zone++;
+     }
+     lst[c_zone].vex.push_back(boxlst[ct]);
+     ct++;
+     }while(ct<boxlst.size());
+     return 0;
+}
+int getYLow(int start,int ends,int var,int locate){
+    int mid=(start+ends)/2;
+     if(mid==0&&var<=lst[locate].vex[0].y)
+            return 0;
+    else if(mid+1==lst[locate].vex.size())
+        return -1;
+    else if(lst[locate].vex[mid].y<var&&lst[locate].vex[mid+1].y>=var)
+            return mid+1;
+    else if(lst[locate].vex[mid].y==var)
+            return getYLow(start,mid,var,locate);
+    else if(lst[locate].vex[mid].y<var)
+        return getYLow(mid,ends,var,locate);
+    else if(lst[locate].vex[mid].y>var)
+            return getYLow(start,mid,var,locate);
+}
+
+int getYHigh(int start,int ends,int var,int locate){
+    int mid=(start+ends)/2;
+    if(mid==0&&var<=lst[locate].vex[0].y)
+            return -1;
+    else if(mid+1==lst[locate].vex.size())
+         return mid;
+    else if(lst[locate].vex[mid].y<=var&&lst[locate].vex[mid+1].y>var)
+            return mid;
+    else if(lst[locate].vex[mid].y==var)
+            return getYHigh(mid,ends,var,locate);
+    else if(lst[locate].vex[mid].y<var)
+        return getYHigh(mid,ends,var,locate);
+    else if(lst[locate].vex[mid].y>var)
+            return getYHigh(start,mid,var,locate);
+}
+
+
+int getLoAddr(int start,int ends,int var){
+    int mid=(start+ends)/2;
+     if(mid==0&&var<=lst[mid].key)
+            return 0;
+    else if(mid+1==lst.size())
+        return -1;
+    else if(lst[mid].key<var&&lst[mid+1].key>=var)
+            return mid+1;
+    else if(lst[mid].key==var)
+            return getLoAddr(start,mid,var);
+    else if(lst[mid].key<var)
+        return getLoAddr(mid,ends,var);
+    else if(lst[mid].key>var)
+            return getLoAddr(start,mid,var);
+}
+vector<struct rec> re;
+int Lst_Search(int x,int y,int d)
+{
+    int start,ends,i,a,b;
+    start=getLoAddr(0,lst.size(),x-d);
+    ends=getLoAddr(0,lst.size(),x+d);
+    for(i=start; i<=ends; i++)
+    {
+        a=getYLow(0,lst[i].vex.size(),y-d,i);
+        b=getYHigh(0,lst[i].vex.size(),y+d,i);
+        if(i==start)
+          if(a!=-1&&b!=-1)
+            {
+                re.push_back(rec(i,a,b));
+            }
+    }
+}
+
+int main(int in_word,char** word){
+    if(in_word!=1)
+        cout <<in_word<<"*******************\nCase " << word[1] <<" :: #"<< word[2]<<" ; Algorithm3\n";
+    chrono::high_resolution_clock::time_point v1,v2;
+    chrono::duration<double> time_span ;
+    int n,t1,t2,target_x,target_y,target_d,i;
+    v1=chrono::high_resolution_clock::now();
+    /// insert
+    cin >> n >> t1 >> target_x >> target_y >> target_d;
+    for(i=0; i<n; i++)
+    {
+        cin >> t1 >> t2;
+        boxlst.push_back(box(t1,t2));
+    }
+    Lst_Insert();
+    /*for(struct zone a:lst){
+        for(struct box b:a.vex){
+            cout << "(" << b.x << "," << b.y << ") ";
+        }
+        cout << "\n";
+    }
+        cout << "\n\n\n";*/
+
+    v2=chrono::high_resolution_clock::now();
+    time_span = chrono::duration_cast<chrono::duration<double>>(v2 - v1);
+    cout << "Input time = " << time_span.count() << " Second\n";
+
+    v1=chrono::high_resolution_clock::now();
+    /// Searching
+    Lst_Search(target_x,target_y,target_d);
+
+    v2=chrono::high_resolution_clock::now();
+    time_span = chrono::duration_cast<chrono::duration<double>>(v2 - v1);
+    cout << "Search time = " << time_span.count() << " Second\n";
+
+    /*
+    /// output
+
+      for(struct rec a:re){
+          for(i=a.start;i<=a.ends;i++){
+              cout << "("<< lst[a.floor].vex.at(i).x <<"," <<lst[a.floor].vex.at(i).y << ") ";
+          }
+      }
+          cout << "\n\n\n";*/
+
+
+    /// Memory Dump
+    string line;
+    ifstream file ("/proc/self/status");
+    if(file.is_open())
+    {
+        while(getline(file,line))
+        {
+            /*
+            if(string("VmRSS:")==line)
+            cout << "RAM = " <<   ;
+            */
+            if(string(line.begin(),line.begin()+7)=="VmSize:")
+                cout << "Memory = " << string(line.begin()+7,line.end()) << "\n"   ;
+        }
+    }
+
+    return 0;
+}

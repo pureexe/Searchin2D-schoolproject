@@ -1,0 +1,800 @@
+3*******************
+Case 10 :: #0 ; Algorithm1
+Input time = 0.0091575 Second
+Search time = 0.000129724 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #0 ; Algorithm2
+Input time = 0.00557032 Second
+Search time = 0.00278456 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #0 ; Algorithm3
+Input time = 0.0145535 Second
+Search time = 6.76e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #0 ; Algorithm5
+Input time = 0.0213109 Second
+Search time = 8.32e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #1 ; Algorithm1
+Input time = 0.00552878 Second
+Search time = 0.00011314 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #1 ; Algorithm2
+Input time = 0.00565039 Second
+Search time = 0.00288194 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #1 ; Algorithm3
+Input time = 0.0107649 Second
+Search time = 5.04e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #1 ; Algorithm5
+Input time = 0.0138055 Second
+Search time = 8.25e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #2 ; Algorithm1
+Input time = 0.00794338 Second
+Search time = 0.000115687 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #2 ; Algorithm2
+Input time = 0.00827335 Second
+Search time = 0.00267585 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #2 ; Algorithm3
+Input time = 0.0108941 Second
+Search time = 8.39e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #2 ; Algorithm5
+Input time = 0.0137814 Second
+Search time = 6.97e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #3 ; Algorithm1
+Input time = 0.00828998 Second
+Search time = 0.000119265 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #3 ; Algorithm2
+Input time = 0.00822604 Second
+Search time = 0.00262885 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #3 ; Algorithm3
+Input time = 0.0133971 Second
+Search time = 8.08e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #3 ; Algorithm5
+Input time = 0.0215576 Second
+Search time = 7.52e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #4 ; Algorithm1
+Input time = 0.00565947 Second
+Search time = 0.000117503 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #4 ; Algorithm2
+Input time = 0.0123974 Second
+Search time = 0.0039993 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #4 ; Algorithm3
+Input time = 0.0133212 Second
+Search time = 1.537e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #4 ; Algorithm5
+Input time = 0.0140499 Second
+Search time = 7.56e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #5 ; Algorithm1
+Input time = 0.0055947 Second
+Search time = 0.000114732 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #5 ; Algorithm2
+Input time = 0.0108403 Second
+Search time = 0.0033577 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #5 ; Algorithm3
+Input time = 0.0130166 Second
+Search time = 7.51e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #5 ; Algorithm5
+Input time = 0.0139961 Second
+Search time = 1.272e-06 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #6 ; Algorithm1
+Input time = 0.00564365 Second
+Search time = 0.000122237 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #6 ; Algorithm2
+Input time = 0.00556181 Second
+Search time = 0.00305979 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #6 ; Algorithm3
+Input time = 0.0111037 Second
+Search time = 6e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #6 ; Algorithm5
+Input time = 0.0138482 Second
+Search time = 6.64e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #7 ; Algorithm1
+Input time = 0.0131703 Second
+Search time = 0.000115659 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #7 ; Algorithm2
+Input time = 0.0106149 Second
+Search time = 0.00328025 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #7 ; Algorithm3
+Input time = 0.010816 Second
+Search time = 4.38e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #7 ; Algorithm5
+Input time = 0.0139866 Second
+Search time = 1.273e-06 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #8 ; Algorithm1
+Input time = 0.00895366 Second
+Search time = 0.00011374 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #8 ; Algorithm2
+Input time = 0.00825498 Second
+Search time = 0.00532603 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #8 ; Algorithm3
+Input time = 0.0105714 Second
+Search time = 1.26e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #8 ; Algorithm5
+Input time = 0.0139279 Second
+Search time = 8.29e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 10 :: #9 ; Algorithm1
+Input time = 0.00555623 Second
+Search time = 0.000113738 Second
+Memory = 	   12808 kB
+3*******************
+Case 10 :: #9 ; Algorithm2
+Input time = 0.00556931 Second
+Search time = 0.00266492 Second
+Memory = 	   12816 kB
+3*******************
+Case 10 :: #9 ; Algorithm3
+Input time = 0.0109925 Second
+Search time = 1.01e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10 :: #9 ; Algorithm5
+Input time = 0.0173882 Second
+Search time = 7.67e-07 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #0 ; Algorithm1
+Input time = 0.00566636 Second
+Search time = 0.000116676 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #0 ; Algorithm2
+Input time = 0.0108694 Second
+Search time = 0.00282517 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #0 ; Algorithm3
+Input time = 0.0109613 Second
+Search time = 8.78e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #0 ; Algorithm5
+Input time = 0.0164562 Second
+Search time = 8.0139e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #1 ; Algorithm1
+Input time = 0.00831129 Second
+Search time = 0.000119929 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #1 ; Algorithm2
+Input time = 0.00552205 Second
+Search time = 0.0028293 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #1 ; Algorithm3
+Input time = 0.011481 Second
+Search time = 7.23e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #1 ; Algorithm5
+Input time = 0.0135382 Second
+Search time = 7.5239e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #2 ; Algorithm1
+Input time = 0.011893 Second
+Search time = 0.00012039 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #2 ; Algorithm2
+Input time = 0.00942161 Second
+Search time = 0.0026356 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #2 ; Algorithm3
+Input time = 0.0110341 Second
+Search time = 6.9e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #2 ; Algorithm5
+Input time = 0.0135641 Second
+Search time = 7.528e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #3 ; Algorithm1
+Input time = 0.00631162 Second
+Search time = 0.000119265 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #3 ; Algorithm2
+Input time = 0.00560875 Second
+Search time = 0.00267374 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #3 ; Algorithm3
+Input time = 0.010745 Second
+Search time = 5.81e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #3 ; Algorithm5
+Input time = 0.0215347 Second
+Search time = 8.0078e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #4 ; Algorithm1
+Input time = 0.0134844 Second
+Search time = 0.00011579 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #4 ; Algorithm2
+Input time = 0.00572673 Second
+Search time = 0.00289513 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #4 ; Algorithm3
+Input time = 0.0110079 Second
+Search time = 1.963e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #4 ; Algorithm5
+Input time = 0.0137647 Second
+Search time = 7.7584e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #5 ; Algorithm1
+Input time = 0.00587151 Second
+Search time = 0.00023185 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #5 ; Algorithm2
+Input time = 0.0057616 Second
+Search time = 0.00295839 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #5 ; Algorithm3
+Input time = 0.0108738 Second
+Search time = 8.57e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #5 ; Algorithm5
+Input time = 0.0142705 Second
+Search time = 7.5264e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #6 ; Algorithm1
+Input time = 0.00560171 Second
+Search time = 0.000115025 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #6 ; Algorithm2
+Input time = 0.0133095 Second
+Search time = 0.00302742 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #6 ; Algorithm3
+Input time = 0.013386 Second
+Search time = 6.77e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #6 ; Algorithm5
+Input time = 0.0219054 Second
+Search time = 7.5286e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #7 ; Algorithm1
+Input time = 0.0159413 Second
+Search time = 0.000331301 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #7 ; Algorithm2
+Input time = 0.0135069 Second
+Search time = 0.00310564 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #7 ; Algorithm3
+Input time = 0.0106291 Second
+Search time = 5.42e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #7 ; Algorithm5
+Input time = 0.0143367 Second
+Search time = 8.0134e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #8 ; Algorithm1
+Input time = 0.00553437 Second
+Search time = 0.000115553 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #8 ; Algorithm2
+Input time = 0.0126456 Second
+Search time = 0.00542523 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #8 ; Algorithm3
+Input time = 0.0110444 Second
+Search time = 1.101e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #8 ; Algorithm5
+Input time = 0.014337 Second
+Search time = 8.0081e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 100 :: #9 ; Algorithm1
+Input time = 0.00566581 Second
+Search time = 0.000127895 Second
+Memory = 	   12808 kB
+3*******************
+Case 100 :: #9 ; Algorithm2
+Input time = 0.00585181 Second
+Search time = 0.00280225 Second
+Memory = 	   12816 kB
+3*******************
+Case 100 :: #9 ; Algorithm3
+Input time = 0.0114316 Second
+Search time = 1.884e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 100 :: #9 ; Algorithm5
+Input time = 0.0144584 Second
+Search time = 8.0229e-05 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #0 ; Algorithm1
+Input time = 0.00571103 Second
+Search time = 0.000185089 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #0 ; Algorithm2
+Input time = 0.00606379 Second
+Search time = 0.00317448 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #0 ; Algorithm3
+Input time = 0.0108544 Second
+Search time = 5.4027e-05 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #0 ; Algorithm5
+Input time = 0.013929 Second
+Search time = 0.00783568 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #1 ; Algorithm1
+Input time = 0.00618709 Second
+Search time = 0.000184612 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #1 ; Algorithm2
+Input time = 0.00958149 Second
+Search time = 0.00367959 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #1 ; Algorithm3
+Input time = 0.0185801 Second
+Search time = 7.24e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #1 ; Algorithm5
+Input time = 0.0160965 Second
+Search time = 0.00766297 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #2 ; Algorithm1
+Input time = 0.00560788 Second
+Search time = 0.000188958 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #2 ; Algorithm2
+Input time = 0.00560494 Second
+Search time = 0.00327288 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #2 ; Algorithm3
+Input time = 0.0108159 Second
+Search time = 7.723e-05 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #2 ; Algorithm5
+Input time = 0.0152082 Second
+Search time = 0.00766376 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #3 ; Algorithm1
+Input time = 0.00552704 Second
+Search time = 0.000169373 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #3 ; Algorithm2
+Input time = 0.00555648 Second
+Search time = 0.00336308 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #3 ; Algorithm3
+Input time = 0.0108403 Second
+Search time = 5.547e-05 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #3 ; Algorithm5
+Input time = 0.0138287 Second
+Search time = 0.00786404 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #4 ; Algorithm1
+Input time = 0.00562235 Second
+Search time = 0.000171062 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #4 ; Algorithm2
+Input time = 0.00560683 Second
+Search time = 0.00349031 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #4 ; Algorithm3
+Input time = 0.0106798 Second
+Search time = 0.000356689 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #4 ; Algorithm5
+Input time = 0.0182165 Second
+Search time = 0.00778175 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #5 ; Algorithm1
+Input time = 0.00563525 Second
+Search time = 0.000167979 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #5 ; Algorithm2
+Input time = 0.0100438 Second
+Search time = 0.00678244 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #5 ; Algorithm3
+Input time = 0.0159423 Second
+Search time = 2.6969e-05 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #5 ; Algorithm5
+Input time = 0.02108 Second
+Search time = 0.00787487 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #6 ; Algorithm1
+Input time = 0.00557963 Second
+Search time = 0.000168139 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #6 ; Algorithm2
+Input time = 0.00562132 Second
+Search time = 0.00280208 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #6 ; Algorithm3
+Input time = 0.011063 Second
+Search time = 0.000194735 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #6 ; Algorithm5
+Input time = 0.01372 Second
+Search time = 0.00778853 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #7 ; Algorithm1
+Input time = 0.00554942 Second
+Search time = 0.000218358 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #7 ; Algorithm2
+Input time = 0.00695114 Second
+Search time = 0.0031118 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #7 ; Algorithm3
+Input time = 0.0110494 Second
+Search time = 0.000183756 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #7 ; Algorithm5
+Input time = 0.0135653 Second
+Search time = 0.00781499 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #8 ; Algorithm1
+Input time = 0.00569234 Second
+Search time = 0.000149273 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #8 ; Algorithm2
+Input time = 0.00547729 Second
+Search time = 0.00533152 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #8 ; Algorithm3
+Input time = 0.0185126 Second
+Search time = 7.7e-07 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #8 ; Algorithm5
+Input time = 0.0143431 Second
+Search time = 0.00767622 Second
+Memory = 	  403292 kB
+3*******************
+Case 1000 :: #9 ; Algorithm1
+Input time = 0.00576238 Second
+Search time = 0.000179436 Second
+Memory = 	   12808 kB
+3*******************
+Case 1000 :: #9 ; Algorithm2
+Input time = 0.00609333 Second
+Search time = 0.00335147 Second
+Memory = 	   12816 kB
+3*******************
+Case 1000 :: #9 ; Algorithm3
+Input time = 0.0106977 Second
+Search time = 0.00010167 Second
+Memory = 	   13600 kB
+3*******************
+Case 1000 :: #9 ; Algorithm5
+Input time = 0.0143494 Second
+Search time = 0.00754576 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #0 ; Algorithm1
+Input time = 0.00561292 Second
+Search time = 0.000674407 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #0 ; Algorithm2
+Input time = 0.00598101 Second
+Search time = 0.00529658 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #0 ; Algorithm3
+Input time = 0.0106296 Second
+Search time = 1.202e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #0 ; Algorithm5
+Input time = 0.0142342 Second
+Search time = 0.746082 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #1 ; Algorithm1
+Input time = 0.00558032 Second
+Search time = 0.00065676 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #1 ; Algorithm2
+Input time = 0.0140638 Second
+Search time = 0.00559158 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #1 ; Algorithm3
+Input time = 0.0184679 Second
+Search time = 1.514e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #1 ; Algorithm5
+Input time = 0.0143036 Second
+Search time = 0.741499 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #2 ; Algorithm1
+Input time = 0.0136423 Second
+Search time = 0.000717314 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #2 ; Algorithm2
+Input time = 0.00830129 Second
+Search time = 0.00531274 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #2 ; Algorithm3
+Input time = 0.0185997 Second
+Search time = 1.576e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #2 ; Algorithm5
+Input time = 0.0216706 Second
+Search time = 0.743199 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #3 ; Algorithm1
+Input time = 0.0128502 Second
+Search time = 0.000706367 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #3 ; Algorithm2
+Input time = 0.00973626 Second
+Search time = 0.00536282 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #3 ; Algorithm3
+Input time = 0.0108971 Second
+Search time = 1.35e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #3 ; Algorithm5
+Input time = 0.0140954 Second
+Search time = 0.744863 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #4 ; Algorithm1
+Input time = 0.00580295 Second
+Search time = 0.000694633 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #4 ; Algorithm2
+Input time = 0.00588544 Second
+Search time = 0.00524631 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #4 ; Algorithm3
+Input time = 0.0111204 Second
+Search time = 1.685e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #4 ; Algorithm5
+Input time = 0.0214089 Second
+Search time = 0.744702 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #5 ; Algorithm1
+Input time = 0.0104525 Second
+Search time = 0.000732055 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #5 ; Algorithm2
+Input time = 0.00567423 Second
+Search time = 0.00540223 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #5 ; Algorithm3
+Input time = 0.0108642 Second
+Search time = 1.554e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #5 ; Algorithm5
+Input time = 0.0137356 Second
+Search time = 0.742666 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #6 ; Algorithm1
+Input time = 0.00563996 Second
+Search time = 0.000657386 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #6 ; Algorithm2
+Input time = 0.00585957 Second
+Search time = 0.00519153 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #6 ; Algorithm3
+Input time = 0.0113746 Second
+Search time = 1.534e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #6 ; Algorithm5
+Input time = 0.0137535 Second
+Search time = 0.743636 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #7 ; Algorithm1
+Input time = 0.00551601 Second
+Search time = 0.000664921 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #7 ; Algorithm2
+Input time = 0.00607866 Second
+Search time = 0.00523821 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #7 ; Algorithm3
+Input time = 0.0110185 Second
+Search time = 1.332e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #7 ; Algorithm5
+Input time = 0.0140746 Second
+Search time = 0.741402 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #8 ; Algorithm1
+Input time = 0.00545791 Second
+Search time = 0.000662347 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #8 ; Algorithm2
+Input time = 0.00585939 Second
+Search time = 0.00529327 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #8 ; Algorithm3
+Input time = 0.0112977 Second
+Search time = 1.469e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #8 ; Algorithm5
+Input time = 0.0138407 Second
+Search time = 0.745856 Second
+Memory = 	  403292 kB
+3*******************
+Case 10000 :: #9 ; Algorithm1
+Input time = 0.00552159 Second
+Search time = 0.00077566 Second
+Memory = 	   12940 kB
+3*******************
+Case 10000 :: #9 ; Algorithm2
+Input time = 0.00605056 Second
+Search time = 0.00519675 Second
+Memory = 	   12816 kB
+3*******************
+Case 10000 :: #9 ; Algorithm3
+Input time = 0.010986 Second
+Search time = 1.279e-06 Second
+Memory = 	   13600 kB
+3*******************
+Case 10000 :: #9 ; Algorithm5
+Input time = 0.0139079 Second
+Search time = 0.742741 Second
+Memory = 	  403292 kB
